@@ -1,0 +1,29 @@
+body{
+    background-color: palevioletred;
+}
+
+#nameofpeople
+{
+    width: 80%;
+}
+#camera
+{
+    border: 2px dashed orange;
+    width: 350px;
+    height:300px; 
+    
+}
+#result
+{
+    border: 2px ridge orange;
+    width: 350px;
+    height:300px; 
+    display:none;
+}
+
+#resultobjectname,#resultobjectacc
+{
+
+ 
+color:orange;    
+}
